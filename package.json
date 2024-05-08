@@ -4,5 +4,10 @@
     "googleapis": "^136.0.0",
     "ip-geolocation-api-javascript-sdk": "^1.0.9",
     "playwright": "^1.43.1"
-  }
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.44.0",
+    "@types/node": "^20.12.10"
+  },
+  "scripts": {}
 }
